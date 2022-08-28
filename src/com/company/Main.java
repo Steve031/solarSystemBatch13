@@ -16,11 +16,20 @@ public class Main {
         omaro.radius=1234455;
         omaro.color="pink";
 
+
         //planet2
         Planet2 superwomen = new Planet2();
         superwomen.size="123455km";
         superwomen.name="pliea";
         superwomen.color="green";
+
+        //developing Planet1
+        Planet1 superplanet=new Planet1();
+        superplanet.color="magenta";
+        superplanet.name="hash";
+        superplanet.size="545488km";
+        
+
     }
 
 
